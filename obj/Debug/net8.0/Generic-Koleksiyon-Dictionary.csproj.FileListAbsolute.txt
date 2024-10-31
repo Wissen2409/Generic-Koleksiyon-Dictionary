@@ -1,0 +1,14 @@
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/bin/Debug/net8.0/Generic-Koleksiyon-Dictionary
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/bin/Debug/net8.0/Generic-Koleksiyon-Dictionary.deps.json
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/bin/Debug/net8.0/Generic-Koleksiyon-Dictionary.runtimeconfig.json
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/bin/Debug/net8.0/Generic-Koleksiyon-Dictionary.dll
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/bin/Debug/net8.0/Generic-Koleksiyon-Dictionary.pdb
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/obj/Debug/net8.0/Generic-Koleksiyon-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/obj/Debug/net8.0/Generic-Koleksiyon-Dictionary.AssemblyInfoInputs.cache
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/obj/Debug/net8.0/Generic-Koleksiyon-Dictionary.AssemblyInfo.cs
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/obj/Debug/net8.0/Generic-Koleksiyon-Dictionary.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/obj/Debug/net8.0/Generic-Koleksiyon-Dictionary.dll
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/obj/Debug/net8.0/refint/Generic-Koleksiyon-Dictionary.dll
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/obj/Debug/net8.0/Generic-Koleksiyon-Dictionary.pdb
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/obj/Debug/net8.0/Generic-Koleksiyon-Dictionary.genruntimeconfig.cache
+/Users/emrahelis/Generic-Koleksiyon-Dictionary/obj/Debug/net8.0/ref/Generic-Koleksiyon-Dictionary.dll
